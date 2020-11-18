@@ -1,0 +1,17 @@
+ssd1306.c:26:9:SSD1306_Init	8	static
+ssd1306.c:81:6:SSD1306_UpdateScreen	24	static
+ssd1306.c:94:6:SSD1306_ToggleInvert	16	static
+ssd1306.c:106:6:SSD1306_Fill	16	static
+ssd1306.c:111:6:SSD1306_DrawPixel	16	static
+ssd1306.c:133:6:SSD1306_GotoXY	16	static
+ssd1306.c:139:6:SSD1306_Putc	32	static
+ssd1306.c:170:6:SSD1306_Puts	24	static
+ssd1306.c:187:6:SSD1306_DrawLine	40	static
+ssd1306.c:271:6:SSD1306_DrawRectangle	32	static
+ssd1306.c:296:6:SSD1306_DrawFilledRectangle	40	static
+ssd1306.c:323:6:SSD1306_DrawTriangle	32	static
+ssd1306.c:331:6:SSD1306_DrawFilledTriangle	64	static
+ssd1306.c:387:6:SSD1306_DrawCircle	40	static
+ssd1306.c:421:6:SSD1306_DrawFilledCircle	48	static
+ssd1306.c:452:6:SSD1306_ON	8	static
+ssd1306.c:457:6:SSD1306_OFF	8	static

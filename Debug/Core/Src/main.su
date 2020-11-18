@@ -1,0 +1,6 @@
+main.c:19:5:main	24	static
+main.c:90:6:SystemClock_Config	88	static
+main.c:135:13:MX_TIM1_Init	32	static
+main.c:177:13:I2C1_Init	120	static
+main.c:205:17:ctof	24	static
+main.c:216:6:Error_Handler	4	static

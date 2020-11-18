@@ -1,0 +1,8 @@
+sensor.c:13:10:US_Delay_Init	4	static,ignoring_inline_asm
+sensor.c:32:22:US_Delay	24	static
+sensor.c:41:6:Set_Pin_Output	40	static
+sensor.c:50:6:Set_Pin_Input	40	static
+sensor.c:59:6:DHT_Start	8	static
+sensor.c:72:9:DHT_Check_Response	16	static
+sensor.c:87:9:DHT_Read	16	static
+sensor.c:101:6:DHT_GetData	16	static
